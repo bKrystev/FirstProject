@@ -1,0 +1,39 @@
+﻿body{
+    background-color: #5CDB95;
+}
+.topTab {
+    box-sizing: border-box;
+    min-height:100px;
+    height:70%;
+    border: unset;
+    background-color: #8EE4AF;
+}
+.topTabText {
+    font-family: Verdana;
+    font-size:80px;
+    text-align: center;
+    color: #379683;
+}
+span {
+    color: #EDF5E1;
+    background-color: #379683;
+}
+button{
+    background-color:#5CDB95;
+    color:#05368B;
+    border:2px solid #379683;
+    border-radius: 21px;
+    font-size:13px;
+    padding:8px 10px;
+    min-width:5%;
+    min-height:5%;
+    max-height:5%;
+    max-width:5%; 
+    
+
+}
+button:hover{
+    background-color:#05386B;
+    color:#EDF5E1;
+
+}
